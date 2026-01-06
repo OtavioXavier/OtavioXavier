@@ -1,29 +1,50 @@
-### Olá Mundo👋
-
-<div>
-   <a href="https://github.com/OtavioXavier">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioXavier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=dark"/>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35ce8d&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Otavio+Xavier+aqui!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Apaixonado+por+.NET+e+Angular" alt="Typing SVG" />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-          
-                  
-          
-</div>
- 
- <br>
- 
-  ### Minhas redes sociais a baixo:
- 
-<div> 
-  <a href = "mailto:otavio.xavier.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/otavioxaviermarinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/OtavioXavier/OtavioXavier/blob/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+  
+  ## Sobre Mim 👨‍💻
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=OtavioXavier&label=Profile%20Views&color=0e75b6&style=flat" alt="OtavioXavier" />
+  </p>
+
+  <p align="center">
+     🚀 Comecei minha jornada com desenvolvimento de software focado no ecossistema Typescript<br>
+     ☕ Trabalho com desenvolvimento Full Stack quando não estou tomando café.<br>
+     🌱 Atualmente focado em aprimorar conhecimentos em Arquitetura de Software.<br>
+     💬 Pergunte-me sobre <strong>Typescript, Node, Angular e Next.js</strong>.<br>
+     ⚡ Curto muito criar interfaces limpas e backends performáticos.
+  </p>
 </div>
+
+<br>
+
+<div align="center">
+  <h2>📚 Linguagens e Ferramentas</h2>
+  <img src="https://skillicons.dev/icons?i=ts,angular,nextjs,nodejs,cs,dotnet,docker,postgres,figma&theme=dark" />
+</div>
+
+<br>
+
+<br>
+
+<div align="center">
+  <h2>💬 Frase do Dia</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>📫 Conecte-se comigo</h2>
+  <a href="mailto:otavio.xavier.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/otavioxaviermarinho" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
+
+<br>
