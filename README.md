@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35ce8d&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Otavio+Xavier+aqui!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Apaixonado+por+.NET+e+Angular" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35ce8d&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Otavio+Xavier+aqui!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Apaixonado+por+Desenvolvimento" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 <div align="center">
   <h2>📚 Linguagens e Ferramentas</h2>
-  <img src="https://skillicons.dev/icons?i=ts,angular,nextjs,nodejs,cs,dotnet,docker,postgres,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,angular,nextjs,react,java,spring,cs,dotnet,docker,postgres,figma&theme=dark" />
 </div>
 
 <br>
