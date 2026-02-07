@@ -13,9 +13,9 @@
   <p align="center">
      🚀 Comecei minha jornada com desenvolvimento de software focado no ecossistema Typescript<br>
      ☕ Trabalho com desenvolvimento Full Stack quando não estou tomando café.<br>
-     🌱 Atualmente focado em aprimorar conhecimentos em Arquitetura de Software.<br>
-     💬 Pergunte-me sobre <strong>Typescript, Node, Angular e Next.js</strong>.<br>
-     ⚡ Curto muito criar interfaces limpas e backends performáticos.
+     🌱 Atualmente focado em aprimorar conhecimentos em Qualidade de Software.<br>
+     💬 Pergunte-me sobre <strong>Angular, Spring Boot e .Net</strong>.<br>
+     ⚡ Curto muito música boa, desenvolvimento web e indie games.
   </p>
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
   <h2>📚 Linguagens e Ferramentas</h2>
-  <img src="https://skillicons.dev/icons?i=ts,angular,nextjs,react,java,spring,cs,dotnet,docker,postgres,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=angular,spring,jest,docker,postgres,dotnet,nextjs,ts,java,cs,figma&theme=dark" />
 </div>
 
 <br>
